@@ -21,5 +21,6 @@ class VariablesRunner {
         def value2 = 36G
         def value3 = 3.3G
         println new SqlDate(1)
+        println new Date()
     }
 }
